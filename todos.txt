@@ -1,5 +1,0 @@
--prepare for not free tests
--finish index.html (5 sections)
--make page pretty
--test
--submit
